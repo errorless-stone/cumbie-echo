@@ -1,5 +1,3 @@
--Added bottom navbar with home button
-<br>
--changed background to static yellow
-<br>
--condensed dogehouse element, stops from scrolling page as much
+-Added refresh functionality to button in order to play again
+<br>-Now displays specific lucky number instead of odd/even nums
+<br>-All cool Facts now share same font/style.
