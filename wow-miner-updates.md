@@ -1,3 +1,3 @@
--Added refresh functionality to button in order to play again
--Now displays specific lucky number instead of odd/even nums
--All cool Facts now share same font/style
+-Added refresh functionality to button in order to play again.
+-Now displays specific lucky number instead of odd/even nums.
+-All cool Facts now share same font/style.
